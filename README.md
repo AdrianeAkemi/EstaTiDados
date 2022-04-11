@@ -1,4 +1,4 @@
-# PyLadies São Carlos & Comunidade de Estatística EstaTiDados
+# PyLadies São Carlos & Comunidade EstaTiDados
 
 As PyLadies São Carlos preparam um material especial: um **Minicurso introdutório sobre plotagem de gráficos utilizando bibliotecas populares do Python** para pessoas que já tenham noção de programação em Python.
 
