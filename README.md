@@ -1,6 +1,6 @@
-# PyLadies São Carlos & Mulheres em Foco
+# PyLadies São Carlos & Comunidade de Estatística EstaTiDados
 
-As PyLadies São Carlos preparam um material especialmente para o Mulheres em Foco 2022: um **Minicurso introdutório sobre plotagem de gráficos utilizando bibliotecas populares do Python** para pessoas que já tenham noção de programação em Python.
+As PyLadies São Carlos preparam um material especial: um **Minicurso introdutório sobre plotagem de gráficos utilizando bibliotecas populares do Python** para pessoas que já tenham noção de programação em Python.
 
 Em homenagem ao mês das mulheres, nosso minicurso é baseado em dados reais da participação de mulheres na Python Brasil, o maior evento da linguagem Python da América Latina.
 
