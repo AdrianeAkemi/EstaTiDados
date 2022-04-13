@@ -1,10 +1,14 @@
 # PyLadies São Carlos & Comunidade EstaTiDados
 
-As PyLadies São Carlos preparam um material especial: um **Minicurso introdutório sobre plotagem de gráficos utilizando bibliotecas populares do Python** para pessoas que já tenham noção de programação em Python.
+As PyLadies São Carlos preparam um material especial: um **Minicurso introdutório sobre plotagem de gráficos utilizando bibliotecas populares do Python** para pessoas que já tenham noção de programação em Python. Além disso, tivemos a oportunidade de participar da Comunidade Estatística do grande mestre Thiago Marques.
 
-Em homenagem ao mês das mulheres, nosso minicurso é baseado em dados reais da participação de mulheres na Python Brasil, o maior evento da linguagem Python da América Latina.
+O nosso minicurso é baseado em dados reais na Python Brasil, o maior evento da linguagem Python da América Latina.
 
 Venha conosco aprender sobre como criar gráficos para facilitar suas análises e visualizações!
+
+## Link do minicurso
+
+https://www.youtube.com/watch?v=ewIyI6LtlHo&t=1s&ab_channel=EstaTiDados
 
 # Materiais disponíveis
 
